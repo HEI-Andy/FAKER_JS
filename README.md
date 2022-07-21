@@ -1,0 +1,2 @@
+# FAKER_JS
+### GENERATE 500000 users
